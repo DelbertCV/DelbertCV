@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Delbert 👋
 
-<!--
-**DelbertCV/DelbertCV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechatronics Engineer from Universidad del Valle de Guatemala
+Applied AI @ Tec de Monterrey (Master's)
 
-Here are some ideas to get you started:
+Building a portfolio of reproducible, professional-grade EDA and ML projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+#### [NN from scratch using Numpy](https://github.com/DelbertCV/asl-numpy-nn)
+
+
+## 🛠️ Stack
+Python · pandas · scikit-learn · DVC · Git · Power BI (DAX & PowerQuery M) · SQL
