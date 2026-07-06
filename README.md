@@ -1,6 +1,8 @@
 # Hi, I'm Delbert 👋
 
 Mechatronics Engineer from Universidad del Valle de Guatemala
+<br>
+
 Applied AI @ Tec de Monterrey (Master's)
 
 Building a portfolio of reproducible, professional-grade EDA and ML projects.
